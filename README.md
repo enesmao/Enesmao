@@ -24,6 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enesmao&show_icons=true&locale=en" alt="enesmao" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enesmao&" alt="enesmao" /></p>
-
-
-![snake gif](https://github.com/enesmao/enesmao/blob/output/github-contribution-grid-snake.gif)
