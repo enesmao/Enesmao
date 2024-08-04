@@ -1,4 +1,3 @@
-![MasterHead](https://images.pexels.com/photos/4761594/pexels-photo-4761594.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 <h1 align="center">Hi 👋, I'm Enes MAO</h1>
 <h3 align="center">A passionate frontend and app developer from Turkey</h3>
 
